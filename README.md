@@ -1,2 +1,2 @@
 # p4ep
-The repository for P4 Enhancement Proposals (P4EPs).
+The repository for P4 Project Enhancement Requests (P4PERs).
